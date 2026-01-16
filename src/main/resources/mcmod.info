@@ -1,0 +1,18 @@
+[
+  {
+    "logoFile": "logo.png",
+    "modid": "thedungeontracker",
+    "name": "The Dungeon Tracker",
+    "description": "Tracks Hypixel Dungeon runs from chat. Make Sure You Have Chat Enable For this Mod To Work. \n\nWarning:\n\n I worked on this project as a time killer, and there There could be some mistakes in the mod, and one thing is that when you close the game, your entire run history gets cleared. I will add a save-to-file feature in the next update. Till then, give your suggestions on my GitHub page for this mod. \n\n Thank you for using my mod.",
+    "version": "1.0",
+    "mcversion": "1.8.9",
+    "url": "https://github.com/dreamwasfoundhaha/TheDungeonTracker/releases/tag/TheDungeonTracker",
+    "updateUrl": "",
+    "authorList": [
+      "dreamwasfoundhaha"
+    ],
+    "credits": "dreamwasfoundhaha",
+    "dependencies": ["This Mod use Forge Template From lineargraph/Forge1.8.9Template \n\n https://github.com/lineargraph/Forge1.8.9Template"]
+
+  }
+]
